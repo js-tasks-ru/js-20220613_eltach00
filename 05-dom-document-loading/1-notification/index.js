@@ -1,4 +1,5 @@
 export default class NotificationMessage {
+
     static activeNot;
 
     timerId;
